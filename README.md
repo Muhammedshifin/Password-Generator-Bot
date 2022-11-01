@@ -21,7 +21,7 @@ A Simple Telegram Bot That Can Generate Strong Password With Many Features Writt
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/M-fazin/Password-Generator-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammedshifin/Password-Generator-Bot)
 
 ---
 
